@@ -2,4 +2,4 @@
 
 Task:- Slider Task
 Framework:- Bootstrap
-
+Responsive:- For iPhone, iPad, Android
