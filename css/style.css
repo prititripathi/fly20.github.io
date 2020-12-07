@@ -75,6 +75,7 @@ img {
 .action:focus {
     border: 1px solid #000;
     outline: 0px none;
+    color: #000;
 }
 
 .carousel-caption p {
